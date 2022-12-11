@@ -61,18 +61,15 @@ header address ul {
     margin-bottom: 15px;
 }
 
-.address-line-item-icon {
-    width: 16px;
-    height: 16px;
-    background-color: #007ced;
-    margin-right: 10px;
-    padding: 4px;
-    vertical-align: middle;
-}
-.address-line-item-icon {
-    border-radius: 12px;
-}
-
 .circle {
     border-radius: 50%;
+}
+
+.big-font-size {
+    font-size: 24px;
+}
+
+.header-center-element {
+    flex-grow: 1;
+    margin-left: 50px;
 }

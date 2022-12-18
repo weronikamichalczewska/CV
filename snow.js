@@ -15,3 +15,4 @@ const createSnow = () => {
 };
 
 setInterval(createSnow, 50);
+
